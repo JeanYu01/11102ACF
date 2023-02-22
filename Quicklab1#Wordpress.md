@@ -1,5 +1,6 @@
 # 使用EC2搭配自動化指令架設Wordpress
 
+
 # 實施步驟
 
 ![image](https://user-images.githubusercontent.com/103306835/220606021-d046a359-314d-4e01-b950-847d41107714.png)
