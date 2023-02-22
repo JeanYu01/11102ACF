@@ -92,7 +92,9 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/220606642-50eceb03-64c7-4fa9-b84b-afb5b91a43a8.png)
 
-2.點選[複製](檔案連結:https://github.com/EISCFCU/11102ACF/blob/main/wordpress.aws.sh)
+2.點選[複製]
+
+(檔案連結:https://github.com/EISCFCU/11102ACF/blob/main/wordpress.aws.sh)
 
 ![image](https://user-images.githubusercontent.com/103306835/220612998-9b98af26-b2c0-47b8-a94c-88cb6826e0b7.png)
 
