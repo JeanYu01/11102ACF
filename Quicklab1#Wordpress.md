@@ -63,7 +63,7 @@ Contact mail:eiscfcu@gmail.com
 
 ![image](https://user-images.githubusercontent.com/103306835/220606642-50eceb03-64c7-4fa9-b84b-afb5b91a43a8.png)
 
-2.點選[複製](檔案連結:https://github.com/EISCFCU/wordpress_on_aws_EC2/blob/main/wordpress.aws.sh)
+2.點選[複製](檔案連結:https://github.com/EISCFCU/11102ACF/blob/main/wordpress.aws.sh)
 
 ![image](https://user-images.githubusercontent.com/103306835/220606735-19f51036-e6e0-4f8f-9c57-0286b30f53ba.png)
 
