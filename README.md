@@ -1,8 +1,9 @@
 # 11102ACF
 
 
-# 0215登入AWS Academy
+0215登入AWS Academy
 
+https://github.com/EISCFCU/Lab0_AWS-Academy.md
 
 0222建立wordpress(EC2) 
 
