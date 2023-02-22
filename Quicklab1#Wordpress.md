@@ -1,5 +1,33 @@
 # 使用EC2搭配自動化指令架設Wordpress
 
+#請使用AWS Academy ACF Sandbox
+
+![image](https://user-images.githubusercontent.com/103306835/220615140-c86fea5b-be68-401f-b097-c31f745f239a.png)
+
+1.點選[Start Lab]
+
+![image](https://user-images.githubusercontent.com/103306835/220615250-63cb9fca-8686-4729-be0f-d0d28d67d4c8.png)
+
+2.等待實驗室啟動
+
+![image](https://user-images.githubusercontent.com/103306835/220615415-590b9fd2-2f9d-4b2d-a255-5f1b23927cdf.png)
+
+3.狀態變成Ready 表示實驗室環境建置完成
+
+![image](https://user-images.githubusercontent.com/103306835/220616160-25ac6417-a733-4c8f-8688-2d2218fcf90e.png)
+
+
+
+4.點選[AWS] 時間正在倒數(實驗室環境可使用的時間)
+
+![image](https://user-images.githubusercontent.com/103306835/220615548-048e166d-6e98-4fbb-b078-dbd3be9e6058.png)
+
+
+5.顯示Management Console
+
+![image](https://user-images.githubusercontent.com/103306835/220615817-41df0179-bcb4-4b06-a3f9-0059e50dc9ca.png)
+
+
 
 # 實施步驟
 
