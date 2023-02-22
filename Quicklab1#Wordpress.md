@@ -63,7 +63,7 @@
 
 2.點選[複製](檔案連結:https://github.com/EISCFCU/11102ACF/blob/main/wordpress.aws.sh)
 
-![image](https://user-images.githubusercontent.com/103306835/220606735-19f51036-e6e0-4f8f-9c57-0286b30f53ba.png)
+![image](https://user-images.githubusercontent.com/103306835/220612998-9b98af26-b2c0-47b8-a94c-88cb6826e0b7.png)
 
 
 3.貼上程式碼
