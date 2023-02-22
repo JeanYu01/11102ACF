@@ -97,12 +97,22 @@
 2.點選Public IPv4 address的open address連結
 ![image](https://user-images.githubusercontent.com/103306835/163400022-b06e5736-adbb-4d9b-ae43-216e6dc4f57c.png)
 
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
 # 有可能會出現以下錯誤畫面
 ![image](https://user-images.githubusercontent.com/103306835/163400067-6d06dda1-2f50-46c1-8ea7-875947f4b42f.png)
 
 # 解決方法
 將https的s拿掉 網址最後方打上:80
 ![image](https://user-images.githubusercontent.com/103306835/163400184-57376b83-bae9-46f0-9441-87f4ec1c0be1.png)
+
+
+
+----------------------------------------------------------------------------------------------------------------
+
 
 3.出現以下畫面即成功開啟wordpress
 ![image](https://user-images.githubusercontent.com/103306835/163400333-0f10b86d-667d-43ce-9c15-ab3503eceda2.png)
