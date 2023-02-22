@@ -16,14 +16,17 @@
 
 ![image](https://user-images.githubusercontent.com/103306835/220616160-25ac6417-a733-4c8f-8688-2d2218fcf90e.png)
 
+4.關閉小視窗
+
+![image](https://user-images.githubusercontent.com/103306835/220616430-d76d5a16-a763-4461-a454-3d04b114a350.png)
 
 
-4.點選[AWS] 時間正在倒數(實驗室環境可使用的時間)
+5.點選[AWS] 時間正在倒數(實驗室環境可使用的時間)
 
 ![image](https://user-images.githubusercontent.com/103306835/220615548-048e166d-6e98-4fbb-b078-dbd3be9e6058.png)
 
 
-5.顯示Management Console
+6.顯示Management Console
 
 ![image](https://user-images.githubusercontent.com/103306835/220615817-41df0179-bcb4-4b06-a3f9-0059e50dc9ca.png)
 
