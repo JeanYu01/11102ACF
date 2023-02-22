@@ -1,7 +1,4 @@
 # 使用EC2搭配自動化指令架設Wordpress
-PeggyWang 20230222 Update
-
-Contact mail:eiscfcu@gmail.com
 
 # 實施步驟
 
